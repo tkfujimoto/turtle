@@ -11,4 +11,5 @@ def get_x(self,y)
 def __init__(self):
 def hit_wall(self):
 def run(self):
+作成日: 2021.08.03
 
