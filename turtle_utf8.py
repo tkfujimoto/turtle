@@ -1,4 +1,4 @@
-# -*- coding: cp932 -*-
+#
 # turtle.py: a Tkinter based turtle graphics module for Python
 # Version 1.0.1 - 24. 9. 2009
 #
